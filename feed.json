@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "mattcapture",
+    "description": "",
+    "home_page_url": "https://ctkmatthew.github.io/mattcapture",
+    "feed_url": "https://ctkmatthew.github.io/mattcapture/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "matthewchau"
+    },
+    "items": [
+        {
+            "id": "https://ctkmatthew.github.io/mattcapture/home.html",
+            "url": "https://ctkmatthew.github.io/mattcapture/home.html",
+            "title": "Home",
+            "summary": "Ma Wan 1868 Ma Wan 1868 Ma Wan 1868",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://ctkmatthew.github.io/mattcapture/media/posts/1/gallery/000026420010.jpeg\" data-size=\"2048x2905\"><img loading=\"lazy\" src=\"https://ctkmatthew.github.io/mattcapture/media/posts/1/gallery/000026420010-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"1021\"></a>\n<figcaption>Ma Wan 1868</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://ctkmatthew.github.io/mattcapture/media/posts/1/gallery/000026420003.jpeg\" data-size=\"2048x2905\"><img loading=\"lazy\" src=\"https://ctkmatthew.github.io/mattcapture/media/posts/1/gallery/000026420003-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"1021\"></a>\n<figcaption>Ma Wan 1868</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://ctkmatthew.github.io/mattcapture/media/posts/1/gallery/000026420005.jpeg\" data-size=\"2048x2905\"><img loading=\"lazy\" src=\"https://ctkmatthew.github.io/mattcapture/media/posts/1/gallery/000026420005-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"1021\"></a>\n<figcaption>Ma Wan 1868</figcaption>\n</figure>\n</div></div>",
+            "author": {
+                "name": "matthewchau"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-09T22:26:03+08:00",
+            "date_modified": "2025-12-09T22:26:03+08:00"
+        }
+    ]
+}

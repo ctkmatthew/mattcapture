@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://ctkmatthew.github.io/mattcapture/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://ctkmatthew.github.io/mattcapture/</loc>
+</url>
+<url>
+<loc>https://ctkmatthew.github.io/mattcapture/home-2.html</loc>
+<lastmod>2025-12-09T22:30:55+08:00</lastmod>
+<image:image>
+<image:loc>https://ctkmatthew.github.io/mattcapture/media/posts/2/gallery/000026420010-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ctkmatthew.github.io/mattcapture/media/posts/2/gallery/000026420003-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ctkmatthew.github.io/mattcapture/media/posts/2/gallery/000026420005-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ctkmatthew.github.io/mattcapture/home.html</loc>
+<lastmod>2025-12-09T22:26:03+08:00</lastmod>
+<image:image>
+<image:loc>https://ctkmatthew.github.io/mattcapture/media/posts/1/gallery/000026420010-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ctkmatthew.github.io/mattcapture/media/posts/1/gallery/000026420003-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ctkmatthew.github.io/mattcapture/media/posts/1/gallery/000026420005-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ctkmatthew.github.io/mattcapture/instagram.html</loc>
+<lastmod>2025-12-09T22:48:20+08:00</lastmod>
+</url>
+</urlset>
